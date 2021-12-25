@@ -3,10 +3,14 @@
     "displayName": "Stereo Theme",
     "description": "A fresh visual studio code theme, inspired by the night sky",
     "version": "0.0.1",
-	"publisher":"FasterMars",
-	"icon": "icon.png",
+    "publisher": "FasterMars",
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.61.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/FasterMars/Stereo-Theme-VSCode"
     },
     "categories": [
         "Themes"
