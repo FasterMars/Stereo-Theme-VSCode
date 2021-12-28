@@ -3,4 +3,3 @@
 A Color theme inspired by the night sky.
 
 # 
-## Preview

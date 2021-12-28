@@ -17,7 +17,9 @@
     ],
     "keywords": [
         "theme",
-        "dark theme"
+        "dark theme",
+        "stereo theme",
+        "faster mars theme"
     ],
     "contributes": {
         "themes": [
