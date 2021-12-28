@@ -2,7 +2,7 @@
     "name": "fastermars-stereo-theme",
     "displayName": "Stereo Theme",
     "description": "A fresh visual studio code theme, inspired by the night sky",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "publisher": "FasterMars",
     "icon": "icon.png",
     "engines": {
