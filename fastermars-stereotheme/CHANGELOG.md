@@ -6,4 +6,4 @@ All notable changes to Stereo theme will be documented in this file.
 
 - Initial release
 - Support added for VS Code v1.61 and above.
-- Fixed crashing on older systems
+- Fixed crashing on older systems 
